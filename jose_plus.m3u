@@ -1,551 +1,439 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="GENERALISTAS",ES: LA 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/1.m3u8
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="GENERALISTAS",ES: LA 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/2.m3u8
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="GENERALISTAS",ES: ANTENA 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/3.m3u8
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="GENERALISTAS",ES: LA SEXTA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/4.m3u8
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="GENERALISTAS",ES: CUATRO
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/5.m3u8
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="GENERALISTAS",ES: TELECINCO
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/6.m3u8
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="GENERALISTAS",ES: ENERGY
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/7.m3u8
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="GENERALISTAS",ES: FACTORÍA DE FICCIÓN
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/8.m3u8
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="GENERALISTAS",ES: NEOX
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/9.m3u8
-#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="CINE Y SERIES",ES: M+ ESTRENOS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/10.m3u8
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES: M+ HITS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_HITS.png" group-title="CINE Y SERIES",ES: M+ HITS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="CINE Y SERIES",ES: M+ CLÁSICOS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/14.m3u8
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="CINE Y SERIES",ES: M+ ACCIÓN
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/15.m3u8
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="CINE Y SERIES",ES: M+ COMEDIA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16.m3u8
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="CINE Y SERIES",ES: M+ DRAMA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/17.m3u8
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="CINE Y SERIES",ES: M+ INDIE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="CINE Y SERIES",ES: M+ CINE ESPAÑOL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/20.m3u8
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="CINE Y SERIES",ES: CALLE 13
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/23.m3u8
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="CINE Y SERIES",ES: COSMO
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/24.m3u8
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="CINE Y SERIES",ES: SYFY
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: SKYSHOWTIME 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="CINE Y SERIES",ES: SKYSHOWTIME 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/26.m3u8
-#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="CINE Y SERIES",ES: STAR CHANNEL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA RESISTENCIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Resistencia.png" group-title="CINE Y SERIES",ES: LA RESISTENCIA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/28.m3u8
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="CINE Y SERIES",ES: TCM
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/29.m3u8
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="CINE Y SERIES",ES: PARAMOUNT CHANNEL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31.m3u8
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="CINE Y SERIES",ES: BE MAD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/32.m3u8
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="CINE Y SERIES",ES: WARNER TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/33.m3u8
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="CINE Y SERIES",ES: HOLLYWOOD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/35.m3u8
-#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="CINE Y SERIES",ES: AXN
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/36.m3u8
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="CINE Y SERIES",ES: COMEDY CENTRAL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/37.m3u8
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="MUSICA",ES: MTV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00S" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV_00s.png" group-title="MUSICA",ES: MTV 00S
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/40.m3u8
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ESTILO DE VIDA",ES: DIVINITY
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/41.m3u8
-#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ESTILO DE VIDA",ES: NOVA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/42.m3u8
-#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ESTILO DE VIDA",ES: MEGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/43.m3u8
-#EXTINF:-1 tvg-id="ten.es" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ESTILO DE VIDA",ES: TEN
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/44.m3u8
-#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ESTILO DE VIDA",ES: DKISS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/45.m3u8
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ESTILO DE VIDA",ES: CANAL COCINA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/46.m3u8
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ESTILO DE VIDA",ES: CANAL DECASA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/47.m3u8
-#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamilia.png" group-title="GENERALISTAS",ES: ENFAMILIA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/48.m3u8
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="INFANTILES",ES: BABY TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/49.m3u8
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="INFANTILES",ES: DISNEY JUNIOR
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/50.m3u8
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="INFANTILES",ES: NICK JR
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/51.m3u8
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="INFANTILES",ES: NICKELODEON
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/52.m3u8
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES: DREAMWORKS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="INFANTILES",ES: DREAMWORKS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/53.m3u8
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="INFANTILES",ES: DISNEY CHANNEL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/54.m3u8
-#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="INFANTILES",ES: BOING
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/55.m3u8
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="INFANTILES",ES: CLAN TVE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/56.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="GENERALISTAS",ES: TRECE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/57.m3u8
-#EXTINF:-1 tvg-id="mx.Atreseries" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="GENERALISTAS",ES: ATRESERIES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/58.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="ES: AL JAZEERA ENGLISH" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png" group-title="NOTICIAS",ES: AL JAZEERA ENGLISH
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/59.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: FRANCE24 (FR)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png" group-title="NOTICIAS",ES: FRANCE24 (FR)
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/60.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png" group-title="NOTICIAS",ES: 1+1 INTERNACIONAL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/61.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: CNBC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNBC.png" group-title="NOTICIAS",ES: CNBC
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/62.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV5MONDE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="NOTICIAS",ES: TV5MONDE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/63.m3u8
-#EXTINF:-1 tvg-id="CGTNEspanol.cn" tvg-name="ES: CGTN ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="NOTICIAS",ES: CGTN ESPAÑOL
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/64.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="NOTICIAS",ES: BLOOMBERG
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/65.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES: 24 HORAS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="NOTICIAS",ES: 24 HORAS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/66.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: BBC WORLD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BBC_World.png" group-title="NOTICIAS",ES: BBC WORLD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/67.m3u8
-#EXTINF:-1 tvg-id="la.Canal CNN Internacional" tvg-name="ES: CNN INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNN_Int.png" group-title="NOTICIAS",ES: CNN INT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/68.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="NOTICIAS",ES: EURONEWS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/70.m3u8
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="GENERALISTAS",ES: EL TORO TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="NOTICIAS",ES: NEGOCIOS TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/72.m3u8
-#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="NOTICIAS",ES: CANAL SUR ANDALUCÍA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/73.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: TVG EUROPA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png" group-title="NOTICIAS",ES: TVG EUROPA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74.m3u8
-#EXTINF:-1 tvg-id="canalextremadurasat.es" tvg-name="ES: CANAL EXTREMADURA SAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="NOTICIAS",ES: CANAL EXTREMADURA SAT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/75.m3u8
-#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES: ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="NOTICIAS",ES: ARAGÓN TV INT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/76.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: EITB BASQUE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png" group-title="NOTICIAS",ES: EITB BASQUE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/77.m3u8
-#EXTINF:-1 tvg-id="tv3cataluny.es" tvg-name="ES: TV3 CAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="GENERALISTAS",ES: TV3 CAT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/78.m3u8
-#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES: TELEMADRID INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="NOTICIAS",ES: TELEMADRID INT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/79.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="DOCUMENTALES",ES: M+ DOCUMENTALES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/80.m3u8
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="DOCUMENTALES",ES: NATIONAL GEOGRAPHIC
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/81.m3u8
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="DOCUMENTALES",ES: NAT GEO WILD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/82.m3u8
-#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="DOCUMENTALES",ES: HISTORIA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/83.m3u8
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="DOCUMENTALES",ES: DISCOVERY
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/84.m3u8
-#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="DOCUMENTALES",ES: DMAX
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/85.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="GENERALISTAS",ES: MOVISTAR PLUS+
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PLUS+ 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png" group-title="GENERALISTAS",ES: MOVISTAR PLUS+ 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/87.m3u8
-#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="CINE Y SERIES",ES: M+ ORIGINALES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/88.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (HD) M+ LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/92.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (HD REPUESTO) M+ LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/93.m3u8
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (FHD) M+ LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/94.m3u8
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="LALIGA",ES: (FHD REPUESTO) M+ LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/396.m3u8
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="LALIGA",ES: (FHD) M+ LALIGA TV 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/95.m3u8
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES: (HD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="LALIGA",ES: (HD) M+ LALIGA TV 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/96.m3u8
-#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="LALIGA",ES: (FHD) M+ LALIGA TV 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/97.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES: (HD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="LALIGA",ES: (HD) M+ LALIGA TV 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/8399.m3u8
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="LALIGA",ES: (FHD) M+ LALIGA TV BAR
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/404.m3u8
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (HD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="LALIGA",ES: (HD) M+ LALIGA TV BAR
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/8400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="LALIGA HYPERMOTION",ES: (FHD) LALIGA TV HYPERMOTION
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD) LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="LALIGA HYPERMOTION",ES: (HD) LALIGA TV HYPERMOTION
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/8402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="LALIGA HYPERMOTION",ES: LALIGA TV HYPERMOTION 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="LALIGA HYPERMOTION",ES: LALIGA TV HYPERMOTION 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/103.m3u8
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (HD) DAZN 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16656.m3u8
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (FHD) DAZN 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/105.m3u8
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (SD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DAZN DEPORTES",ES: (SD) DAZN 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16657.m3u8
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="DAZN DEPORTES",ES: DAZN 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/106.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/107.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/397.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/108.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/399.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/398.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/110.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/109.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/403.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/111.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/112.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/113.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/114.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/115.m3u8
-#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="LALIGA",ES: M+ COPA DEL REY
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/26612.m3u8
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: (HD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="DEPORTES",ES: (HD) M+ VAMOS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/123.m3u8
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="DEPORTES",ES: (FHD) M+ VAMOS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="DEPORTES",ES: (FHD) M+ VAMOS 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/76209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ELLAS V" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="DEPORTES",ES: M+ ELLAS V
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/124.m3u8
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="DEPORTES",ES: M+ GOLF
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="DEPORTES",ES: M+ GOLF 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/127.m3u8
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="DEPORTES",ES: EUROSPORT 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/128.m3u8
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="DEPORTES",ES: EUROSPORT 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/129.m3u8
-#EXTINF:-1 tvg-id="gol.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="DEPORTES",ES: GOL PLAY
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/130.m3u8
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="DEPORTES",ES: TELEDEPORTE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/131.m3u8
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="DEPORTES",ES: REAL MADRID TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ubeat.png" group-title="DEPORTES",ES: UBEAT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/133.m3u8
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="DEPORTES",ES: (FHD) M+ DEPORTES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/134.m3u8
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="DEPORTES",ES: (HD) M+ DEPORTES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/8401.m3u8
-#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="DEPORTES",ES: M+ DEPORTES 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/135.m3u8
-#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="DEPORTES",ES: M+ DEPORTES 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/136.m3u8
-#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="DEPORTES",ES: M+ DEPORTES 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/137.m3u8
-#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="DEPORTES",ES: M+ DEPORTES 5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/138.m3u8
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="DEPORTES",ES: M+ DEPORTES 6
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="DEPORTES",ES: M+ DEPORTES 7
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/140.m3u8
-#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="DAZN DEPORTES",ES: DAZN 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/142.m3u8
-#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="DAZN DEPORTES",ES: DAZN 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/143.m3u8
-#EXTINF:-1 tvg-id="mezzo.es" tvg-name="ES: MEZZO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="MUSICA",ES: MEZZO
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/316.m3u8
-#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: MEZZO LIVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="MUSICA",ES: MEZZO LIVE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/317.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="DEPORTES",ES: BETIS TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/318.m3u8
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD) DAZN LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/391.m3u8
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD REPUESTO) DAZN LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74434.m3u8
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD) DAZN LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/392.m3u8
-#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="DAZN LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/394.m3u8
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="DAZN LALIGA",ES: DAZN LALIGA 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/395.m3u8
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (HD) DAZN F1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/104.m3u8
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (HD REPUESTO) DAZN F1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/402.m3u8
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (FHD) DAZN F1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/401.m3u8
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DAZN F1",ES: (FHD REPUESTO) DAZN F1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/400.m3u8
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 1) ONETORO
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/406.m3u8
-#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="TOROS",ES: (LÍNEA 2) ONETORO
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/405.m3u8
-#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="TOROS",ES: TOROLE TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/407.m3u8
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="DOCUMENTALES",ES: IBERALIA 100% CAZA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/408.m3u8
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="DOCUMENTALES",ES: IBERALIA 100% PESCA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="DEPORTES",ES: RALLY TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ESTILO DE VIDA",ES: M+ BUEN VIAJE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/411.m3u8
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/iberalia_original.png" group-title="DOCUMENTALES",ES: IBERALIA TV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16645.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="REGIONAL",ES: CASTILLA LA MANCHA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: MAX PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/max.png" group-title="UFC",ES: MAX PPV
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: UFC FIGHT PASS" tvg-logo="https://docdog.top/logo/countries/es/UFC_FIGHT_PASS.png" group-title="UFC",ES: UFC FIGHT PASS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16659.m3u8
-#EXTINF:-1 tvg-id="0" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="LALIGA",ES: M+ LALIGA TV 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16781.m3u8
-#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="CINE Y SERIES",ES: DARK
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16782.m3u8
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="CINE Y SERIES",ES: SUNDANCE
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16783.m3u8
-#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="CINE Y SERIES",ES: AMC
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16784.m3u8
-#EXTINF:-1 tvg-id="somos.es" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="CINE Y SERIES",ES: SOMOS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16785.m3u8
-#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="CINE Y SERIES",ES: XTRM
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16786.m3u8
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="CINE Y SERIES",ES: AMC CRIME
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16787.m3u8
-#EXTINF:-1 tvg-id="la.Canal ESPN Deportes" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="DEPORTES",ES: ESPN DEPORTES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/25825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="DOCUMENTALES",ES: CAZAVISIÓN
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/27046.m3u8
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="CINE Y SERIES",ES: AXN MOVIES
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/27488.m3u8
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="DOCUMENTALES",ES: ODISEA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/29378.m3u8
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="CINE Y SERIES",ES: M+ ESTRENOS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH2" tvg-logo="" group-title="PPV",CH2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH3" tvg-logo="" group-title="PPV",CH3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH4" tvg-logo="" group-title="PPV",CH4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH5" tvg-logo="" group-title="PPV",CH5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH6" tvg-logo="" group-title="PPV",CH6
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH7" tvg-logo="" group-title="PPV",CH7
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH8" tvg-logo="" group-title="PPV",CH8
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH9" tvg-logo="" group-title="PPV",CH9
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH10" tvg-logo="" group-title="PPV",CH10
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH11" tvg-logo="" group-title="PPV",CH11
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CH12" tvg-logo="" group-title="PPV",CH12
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31413.m3u8
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="DOCUMENTALES",ES: CAZA Y PESCA
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/31782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ HITS" tvg-logo="" group-title="MUSICA",ES: M+ HITS
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/38897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 01
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 02
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 03
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 04" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 04
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74458.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 05" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 05
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74482.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74485.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 6
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 7
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 8
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 9
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 10
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 11
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 12
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 13
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74493.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 14" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 14
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74494.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 15" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 15
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74495.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 16" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 16
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 17" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 17
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74497.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 18" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 18
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 19" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 19
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 20" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 20
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 21" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 21
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 22" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 22
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 23" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 23
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 24" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 24
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA+ EVENTO 25" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LLPLUS.png" group-title="LALIGA+ EVENT",ES: LALIGA+ EVENTO 25
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 06" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 06
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 07" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 07
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 08" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="DAZN ACB",ES: ACB Evento 08
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="DAZN NFL",ES: DAZN NFL Event 5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="DAZN NBA",ES: DAZN NBA Event 5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 1 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16788.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 2 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 3 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 4 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 4 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 5 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 5 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16792.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 6 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 6 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 7 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 7 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 8 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 8 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 9 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 9 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 10 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 10 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 11 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 11 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 12 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 12 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 13 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 13 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 14 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 14 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 15 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 15 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 16 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 16 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 17 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 17 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 18 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 18 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 19 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 19 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16806.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 20 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 20 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 21 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 21 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16808.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 22 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 22 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 23 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 23 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16810.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 24 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 24 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 25 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="RFEF",ES: RFEF TV 25 FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/16812.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png" group-title="GENERALISTAS",ES: À PUNT
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/39402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA F EVENT  1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ligaF.png" group-title="DAZN Femenino",ES: LIGA F EVENT  1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA F EVENT  2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ligaF.png" group-title="DAZN Femenino",ES: LIGA F EVENT  2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA F EVENT  3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ligaF.png" group-title="DAZN Femenino",ES: LIGA F EVENT  3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA F EVENT  4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ligaF.png" group-title="DAZN Femenino",ES: LIGA F EVENT  4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA F EVENT  5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ligaF.png" group-title="DAZN Femenino",ES: LIGA F EVENT  5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 1
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 2
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 3
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 4
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 5
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 6
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 7
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 8
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 9
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN Event 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/dazn.png" group-title="DAZN EVENTOS",ES: DAZN Event 10
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/74528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV Canaria" tvg-logo="https://docdog.top/logo/countries/spain/CANARIA.png" group-title="GENERALISTAS",ES: TV Canaria
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/76207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="DAZN DEPORTES",ES: DAZN MOTOGP FHD
-http://eshofrcep.top:8080/live/es2871734888896002/6df4d1d8b2da/76208.m3u8
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | GENERALISTAS",ES: LA 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/266
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | GENERALISTAS",ES: LA 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/267
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | GENERALISTAS",ES: ANTENA 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/268
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERALISTAS",ES: LA SEXTA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/269
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | GENERALISTAS",ES: CUATRO
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/270
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | GENERALISTAS",ES: TELECINCO
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/271
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="ES | GENERALISTAS",ES: ENERGY
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/272
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | GENERALISTAS",ES: FACTORÍA DE FICCIÓN
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/273
+#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="ES | GENERALISTAS",ES: NEOX
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/274
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: M+ CINE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine.png" group-title="ES | CINE Y SERIES",ES: M+ CINE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/275
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES: M+ SERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Series.png" group-title="ES | CINE Y SERIES",ES: M+ SERIES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/276
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ CLÁSICOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png" group-title="ES | CINE Y SERIES",ES: M+ CLÁSICOS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/277
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Accion.png" group-title="ES | CINE Y SERIES",ES: M+ ACCIÓN
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/278
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: M+ COMEDIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Comedia.png" group-title="ES | CINE Y SERIES",ES: M+ COMEDIA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/279
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="ES | CINE Y SERIES",ES: M+ DRAMA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/280
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: M+ INDIE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Indie.png" group-title="ES | CINE Y SERIES",ES: M+ INDIE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/281
+#EXTINF:-1 tvg-id="dcineespanol.es" tvg-name="ES: M+ CINE ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png" group-title="ES | CINE Y SERIES",ES: M+ CINE ESPAÑOL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/282
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ TERROR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TERROR.png" group-title="ES | CINE Y SERIES",ES: M+ TERROR
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/283
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Calle_13.png" group-title="ES | CINE Y SERIES",ES: CALLE 13
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/284
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="ES: COSMO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/COSMO.png" group-title="ES | CINE Y SERIES",ES: COSMO
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/285
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="ES: SYFY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SYFY.png" group-title="ES | CINE Y SERIES",ES: SYFY
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/286
+#EXTINF:-1 tvg-id="" tvg-name="ES: SKYSHOWTIME 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png" group-title="ES | CINE Y SERIES",ES: SKYSHOWTIME 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/287
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES: STAR CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png" group-title="ES | CINE Y SERIES",ES: STAR CHANNEL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/288
+#EXTINF:-1 tvg-id="" tvg-name="ES: LA RESISTENCIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Resistencia.png" group-title="ES | CINE Y SERIES",ES: LA RESISTENCIA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/289
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TCM.png" group-title="ES | CINE Y SERIES",ES: TCM
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/290
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png" group-title="ES | CINE Y SERIES",ES: PARAMOUNT CHANNEL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/291
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BE_MAD.png" group-title="ES | CINE Y SERIES",ES: BE MAD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/292
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: WARNER TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Warner_TV.png" group-title="ES | CINE Y SERIES",ES: WARNER TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/293
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Hollywood.png" group-title="ES | CINE Y SERIES",ES: HOLLYWOOD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/294
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN.png" group-title="ES | CINE Y SERIES",ES: AXN
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/295
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png" group-title="ES | CINE Y SERIES",ES: COMEDY CENTRAL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/296
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="ES: MTV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV.png" group-title="ES | MUSICA",ES: MTV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/297
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00S" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MTV_00s.png" group-title="ES | MUSICA",ES: MTV 00S
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/298
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="ES: DIVINITY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Divinity.png" group-title="ES | ESTILO DE VIDA",ES: DIVINITY
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/299
+#EXTINF:-1 tvg-id="nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | ESTILO DE VIDA",ES: NOVA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/300
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mega.png" group-title="ES | ESTILO DE VIDA",ES: MEGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/301
+#EXTINF:-1 tvg-id="ten.es" tvg-name="ES: TEN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ten.png" group-title="ES | ESTILO DE VIDA",ES: TEN
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/302
+#EXTINF:-1 tvg-id="dkiss.es" tvg-name="ES: DKISS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DKISS.png" group-title="ES | ESTILO DE VIDA",ES: DKISS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/303
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="ES: CANAL COCINA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png" group-title="ES | ESTILO DE VIDA",ES: CANAL COCINA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/304
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="ES: CANAL DECASA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png" group-title="ES | ESTILO DE VIDA",ES: CANAL DECASA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/305
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: ENFAMILIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Enfamilia.png" group-title="ES | GENERALISTAS",ES: ENFAMILIA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/306
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Baby_TV.png" group-title="ES | INFANTILES",ES: BABY TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/307
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png" group-title="ES | INFANTILES",ES: DISNEY JUNIOR
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/308
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/NICK_JR.png" group-title="ES | INFANTILES",ES: NICK JR
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/309
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nickelodeon.png" group-title="ES | INFANTILES",ES: NICKELODEON
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/310
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="ES: DREAMWORKS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Dreamworks.png" group-title="ES | INFANTILES",ES: DREAMWORKS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/311
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="ES | INFANTILES",ES: DISNEY CHANNEL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/312
+#EXTINF:-1 tvg-id="boing.es" tvg-name="ES: BOING" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Boing.png" group-title="ES | INFANTILES",ES: BOING
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/313
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png" group-title="ES | INFANTILES",ES: CLAN TVE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/314
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TRECE.png" group-title="ES | GENERALISTAS",ES: TRECE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/315
+#EXTINF:-1 tvg-id="mx.Atreseries" tvg-name="ES: ATRESERIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Atreseries.png" group-title="ES | GENERALISTAS",ES: ATRESERIES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/316
+#EXTINF:-1 tvg-id="aljazeera.uk" tvg-name="ES: AL JAZEERA ENGLISH" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png" group-title="ES | NOTICIAS",ES: AL JAZEERA ENGLISH
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/317
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="ES: FRANCE24 (FR)" tvg-logo="https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png" group-title="ES | NOTICIAS",ES: FRANCE24 (FR)
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/318
+#EXTINF:-1 tvg-id="" tvg-name="ES: 1+1 INTERNACIONAL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png" group-title="ES | NOTICIAS",ES: 1+1 INTERNACIONAL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/319
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNBC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNBC.png" group-title="ES | NOTICIAS",ES: CNBC
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/320
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV5MONDE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png" group-title="ES | NOTICIAS",ES: TV5MONDE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/321
+#EXTINF:-1 tvg-id="CGTN.es" tvg-name="ES: CGTN ESPAÑOL" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png" group-title="ES | NOTICIAS",ES: CGTN ESPAÑOL
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/322
+#EXTINF:-1 tvg-id="" tvg-name="ES: BLOOMBERG" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Bloomberg.png" group-title="ES | NOTICIAS",ES: BLOOMBERG
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/323
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES: 24 HORAS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/24_Horas.png" group-title="ES | NOTICIAS",ES: 24 HORAS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/324
+#EXTINF:-1 tvg-id="bbcworld.ca" tvg-name="ES: BBC WORLD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BBC_World.png" group-title="ES | NOTICIAS",ES: BBC WORLD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/325
+#EXTINF:-1 tvg-id="cnninternationalna.ca" tvg-name="ES: CNN INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CNN_Int.png" group-title="ES | NOTICIAS",ES: CNN INT
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/326
+#EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Euronews.png" group-title="ES | NOTICIAS",ES: EURONEWS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/327
+#EXTINF:-1 tvg-id="eltorotv.es" tvg-name="ES: EL TORO TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png" group-title="ES | GENERALISTAS",ES: EL TORO TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/328
+#EXTINF:-1 tvg-id="" tvg-name="ES: NEGOCIOS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png" group-title="ES | NOTICIAS",ES: NEGOCIOS TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/329
+#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="ES: CANAL SUR ANDALUCÍA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png" group-title="ES | NOTICIAS",ES: CANAL SUR ANDALUCÍA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/330
+#EXTINF:-1 tvg-id="" tvg-name="ES: TVG EUROPA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png" group-title="ES | NOTICIAS",ES: TVG EUROPA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/331
+#EXTINF:-1 tvg-id="canalextremadurasat.es" tvg-name="ES: CANAL EXTREMADURA SAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png" group-title="ES | NOTICIAS",ES: CANAL EXTREMADURA SAT
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/332
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="ES: ARAGÓN TV INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png" group-title="ES | NOTICIAS",ES: ARAGÓN TV INT
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/333
+#EXTINF:-1 tvg-id="" tvg-name="ES: EITB BASQUE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png" group-title="ES | NOTICIAS",ES: EITB BASQUE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/334
+#EXTINF:-1 tvg-id="" tvg-name="ES: TV3 CAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png" group-title="ES | GENERALISTAS",ES: TV3 CAT
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/335
+#EXTINF:-1 tvg-id="telemadrid.es" tvg-name="ES: TELEMADRID INT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png" group-title="ES | NOTICIAS",ES: TELEMADRID INT
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/336
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DOCUMENTALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Documentales.png" group-title="ES | DOCUMENTALES",ES: M+ DOCUMENTALES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/337
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="ES: NATIONAL GEOGRAPHIC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/National_Geographic.png" group-title="ES | DOCUMENTALES",ES: NATIONAL GEOGRAPHIC
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/338
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png" group-title="ES | DOCUMENTALES",ES: NAT GEO WILD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/339
+#EXTINF:-1 tvg-id="historia.es" tvg-name="ES: HISTORIA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Historia.png" group-title="ES | DOCUMENTALES",ES: HISTORIA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/340
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Discovery.png" group-title="ES | DOCUMENTALES",ES: DISCOVERY
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/341
+#EXTINF:-1 tvg-id="dmax.es" tvg-name="ES: DMAX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DMAX.png" group-title="ES | DOCUMENTALES",ES: DMAX
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/342
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PLUS+" tvg-logo="https://docdog.top/logo/countries/spain/movistar/MPLUS.png" group-title="ES | GENERALISTAS",ES: MOVISTAR PLUS+
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/343
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PLUS+ 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png" group-title="ES | GENERALISTAS",ES: MOVISTAR PLUS+ 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/344
+#EXTINF:-1 tvg-id="movistarestrenos2.es" tvg-name="ES: M+ ORIGINALES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Originales.png" group-title="ES | CINE Y SERIES",ES: M+ ORIGINALES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/345
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/346
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (HD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (HD REPUESTO) M+ LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/347
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/348
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="ES: (FHD REPUESTO) M+ LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png" group-title="ES | LALIGA",ES: (FHD REPUESTO) M+ LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/349
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: (FHD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/350
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="ES: (HD) M+ LALIGA TV 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA TV 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/351
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: (FHD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/352
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: (HD) M+ LALIGA TV 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA TV 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/353
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: (FHD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA",ES: (FHD) M+ LALIGA TV BAR
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/354
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES: (HD) M+ LALIGA TV BAR" tvg-logo="https://docdog.top/logo/countries/spain/movistar/laligabares.png" group-title="ES | LALIGA",ES: (HD) M+ LALIGA TV BAR
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/355
+#EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) LALIGA TV HYPERMOTION" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png" group-title="ES | LALIGA HYPERMOTION",ES: (FHD) LALIGA TV HYPERMOTION
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/356
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV HYPERMOTION 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png" group-title="ES | LALIGA HYPERMOTION",ES: LALIGA TV HYPERMOTION 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/358
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV HYPERMOTION 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png" group-title="ES | LALIGA HYPERMOTION",ES: LALIGA TV HYPERMOTION 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/359
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (HD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DAZN DEPORTES",ES: (HD) DAZN 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/360
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (FHD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DAZN DEPORTES",ES: (FHD) DAZN 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/361
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES: (SD) DAZN 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="ES | DAZN DEPORTES",ES: (SD) DAZN 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/362
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="ES: DAZN 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="ES | DAZN DEPORTES",ES: DAZN 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/363
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/364
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (HD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (HD REPUESTO) M+ LIGA DE CAMPEONES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/365
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/366
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/367
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES: (SD) M+ LIGA DE CAMPEONES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="ES | UEFA Liga de Campeones",ES: (SD) M+ LIGA DE CAMPEONES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/368
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/369
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/370
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: (HD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (HD) M+ LIGA DE CAMPEONES 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/371
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES: (FHD) M+ LIGA DE CAMPEONES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png" group-title="ES | UEFA Liga de Campeones",ES: (FHD) M+ LIGA DE CAMPEONES 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/372
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES: M+ LIGA DE CAMPEONES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 4
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/373
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES: M+ LIGA DE CAMPEONES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 5
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/374
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES: M+ LIGA DE CAMPEONES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 6
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/375
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES: M+ LIGA DE CAMPEONES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_7.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 7
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/376
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES: M+ LIGA DE CAMPEONES 8" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_8.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 8
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/377
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 9" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_9.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 9
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/378
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 10" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_10.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 10
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/379
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 11" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_11.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 11
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/380
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 12" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_12.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 12
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/381
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LIGA DE CAMPEONES 13" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png" group-title="ES | UEFA Liga de Campeones",ES: M+ LIGA DE CAMPEONES 13
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/382
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="ES: M+ COPA DEL REY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png" group-title="ES | LALIGA",ES: M+ COPA DEL REY
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/384
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: (HD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (HD) M+ VAMOS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/385
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES",ES: (FHD) M+ VAMOS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/386
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ELLAS V" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="ES | DEPORTES",ES: M+ ELLAS V
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/387
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="ES: M+ GOLF" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="ES | DEPORTES",ES: M+ GOLF
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/388
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="ES | DEPORTES",ES: M+ GOLF 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/389
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="ES: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="ES | DEPORTES",ES: EUROSPORT 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/390
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES",ES: EUROSPORT 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/391
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES: GOL PLAY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="ES | DEPORTES",ES: GOL PLAY
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/392
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="ES | DEPORTES",ES: TELEDEPORTE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/393
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="ES | DEPORTES",ES: REAL MADRID TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/394
+#EXTINF:-1 tvg-id="" tvg-name="ES: UBEAT" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Ubeat.png" group-title="ES | DEPORTES",ES: UBEAT
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/395
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: (FHD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (FHD) M+ DEPORTES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/396
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="ES: (HD) M+ DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="ES | DEPORTES",ES: (HD) M+ DEPORTES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/397
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="ES: M+ DEPORTES 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/398
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="ES: M+ DEPORTES 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/399
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="ES: M+ DEPORTES 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 4
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/400
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="ES: M+ DEPORTES 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 5
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/401
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="ES: M+ DEPORTES 6" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 6
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/402
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES 7" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="ES | DEPORTES",ES: M+ DEPORTES 7
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/403
+#EXTINF:-1 tvg-id="dazn3.es" tvg-name="ES: DAZN 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="ES | DAZN DEPORTES",ES: DAZN 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/404
+#EXTINF:-1 tvg-id="dazn4.es" tvg-name="ES: DAZN 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="ES | DAZN DEPORTES",ES: DAZN 4
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/405
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="ES: MEZZO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo.png" group-title="ES | MUSICA",ES: MEZZO
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/406
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: MEZZO LIVE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png" group-title="ES | MUSICA",ES: MEZZO LIVE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/407
+#EXTINF:-1 tvg-id="" tvg-name="ES: BETIS TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="ES | DEPORTES",ES: BETIS TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/408
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | DAZN LALIGA",ES: (HD) DAZN LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/409
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | DAZN LALIGA",ES: (HD REPUESTO) DAZN LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/410
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (HD REPUESTO2) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | DAZN LALIGA",ES: (HD REPUESTO2) DAZN LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/2838
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | DAZN LALIGA",ES: (FHD) DAZN LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/411
+#EXTINF:-1 tvg-id="daznlaliga.es" tvg-name="ES: (FHD REPUESTO) DAZN LALIGA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" group-title="ES | DAZN LALIGA",ES: (FHD REPUESTO) DAZN LALIGA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/412
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="ES | DAZN LALIGA",ES: DAZN LALIGA 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/413
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (HD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DAZN F1",ES: (HD) DAZN F1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/414
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (HD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DAZN F1",ES: (HD REPUESTO) DAZN F1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/415
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (FHD) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DAZN F1",ES: (FHD) DAZN F1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/416
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES: (FHD REPUESTO) DAZN F1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="ES | DAZN F1",ES: (FHD REPUESTO) DAZN F1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/417
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 1) ONETORO
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/418
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS",ES: (LÍNEA 2) ONETORO
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/419
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS",ES: TOROLE TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/420
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | DOCUMENTALES",ES: IBERALIA 100% CAZA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/421
+#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | DOCUMENTALES",ES: IBERALIA 100% PESCA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/422
+#EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES",ES: RALLY TV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/423
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ BUEN VIAJE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/BuenViaje.png" group-title="ES | ESTILO DE VIDA",ES: M+ BUEN VIAJE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/424
+#EXTINF:-1 tvg-id="0" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | REGIONAL",ES: CASTILLA LA MANCHA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/426
+#EXTINF:-1 tvg-id="" tvg-name="ES: MAX PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/max.png" group-title="ES | PPV",ES: MAX PPV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/427
+#EXTINF:-1 tvg-id="" tvg-name="ES: PRIME PPV" tvg-logo="http://docdog.top/logo/countries/spain/movistar/prime.png" group-title="ES | PPV",ES: PRIME PPV
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/428
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="ES: M+ LALIGA TV 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png" group-title="ES | LALIGA",ES: M+ LALIGA TV 4
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/429
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES: DARK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DARK.png" group-title="ES | CINE Y SERIES",ES: DARK
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/430
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Sundance.png" group-title="ES | CINE Y SERIES",ES: SUNDANCE
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/431
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC.png" group-title="ES | CINE Y SERIES",ES: AMC
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/432
+#EXTINF:-1 tvg-id="somos.es" tvg-name="ES: SOMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Somos.png" group-title="ES | CINE Y SERIES",ES: SOMOS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/433
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES: XTRM" tvg-logo="https://docdog.top/logo/countries/spain/movistar/XTRM.png" group-title="ES | CINE Y SERIES",ES: XTRM
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/434
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC CRIME" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_Crime.png" group-title="ES | CINE Y SERIES",ES: AMC CRIME
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/435
+#EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES",ES: ESPN DEPORTES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/436
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAVISIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cazavision.png" group-title="ES | DOCUMENTALES",ES: CAZAVISIÓN
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/437
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png" group-title="ES | CINE Y SERIES",ES: AXN MOVIES
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/438
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Odisea.png" group-title="ES | DOCUMENTALES",ES: ODISEA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/439
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE Y SERIES",ES: M+ ESTRENOS
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/440
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 1 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 1 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/441
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 2 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 2 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/442
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 3 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 3 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/443
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 4 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 4 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/444
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 5 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 5 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/445
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 6 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 6 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/446
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 7 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 7 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/447
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 8 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 8 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/448
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 9 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 9 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/449
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 10 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 10 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/450
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 11 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 11 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/451
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 12 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 12 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/452
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 13 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 13 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/453
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 14 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 14 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/454
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 15 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 15 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/455
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 16 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 16 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/456
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 17 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 17 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/457
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 18 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 18 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/458
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 19 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 19 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/459
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 20 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 20 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/460
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 21 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 21 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/461
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 22 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 22 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/462
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 23 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 23 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/463
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 24 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 24 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/464
+#EXTINF:-1 tvg-id="" tvg-name="ES: RFEF TV 25 FHD" tvg-logo="https://docdog.top/logo/countries/spain/RFEF.png" group-title="ES | RFEF",ES: RFEF TV 25 FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/465
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | DOCUMENTALES",ES: CAZA Y PESCA
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/2837
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN ACB" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: DAZN ACB
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6793
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 01" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 01
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6794
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 02" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 02
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6795
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 03" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 03
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6796
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 04" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 04
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6797
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 05" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 05
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6798
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="ES | DAZN NFL",ES: DAZN NFL Event 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6814
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="ES | DAZN NFL",ES: DAZN NFL Event 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6815
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="ES | DAZN NFL",ES: DAZN NFL Event 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6816
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="ES | DAZN NFL",ES: DAZN NFL Event 4
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6817
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NFL Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nfl.png" group-title="ES | DAZN NFL",ES: DAZN NFL Event 5
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6818
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="ES | DAZN NBA",ES: DAZN NBA Event 1
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6819
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="ES | DAZN NBA",ES: DAZN NBA Event 2
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6820
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="ES | DAZN NBA",ES: DAZN NBA Event 3
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6821
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 4" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="ES | DAZN NBA",ES: DAZN NBA Event 4
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6822
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN NBA Event 5" tvg-logo="https://docdog.top/logo/countries/spain/movistar/nba.png" group-title="ES | DAZN NBA",ES: DAZN NBA Event 5
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6823
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 06" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 06
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6824
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 07" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 07
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6825
+#EXTINF:-1 tvg-id="" tvg-name="ES: ACB Evento 08" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png" group-title="ES | DAZN ACB",ES: ACB Evento 08
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/6826
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN MOTOGP FHD" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_MOTOGP.png" group-title="ES | DAZN DEPORTES",ES: DAZN MOTOGP FHD
+http://sviportdaey.top:8080/Jon250318/Jon250318AA/36994
